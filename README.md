@@ -54,7 +54,7 @@
     <img src="9.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="14.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
