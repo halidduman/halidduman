@@ -1,4 +1,4 @@
- [![MasterHead](mhd.svg)
+![MasterHead](mhd.svg)
 
 <h1 align="center">Hi 👋, I'm Halid</h1>
 <h3 align="center">React Developer | Frontend Developer | Software Developer</h3>
