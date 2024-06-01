@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="MHD.svg" alt="Açıklama" width="650" height="150">
+  <img src="MHD.svg" alt="Açıklama" width="700" height="200">
 </div>
 
 <h1 align="center">Hi 👋, I'm Halid</h1>
@@ -20,15 +20,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1zu3IC_UQHNUfux-q4RXXO85568WdreG1/view?usp=drive_link" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://lambent-alfajores-5c48a5.netlify.app/images/1.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
-   <a href="https://tr.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
+   <a href="https://tr.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
     <img src="https://lambent-alfajores-5c48a5.netlify.app/images/3.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+   <a href="https://tr.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
     <img src="https://lambent-alfajores-5c48a5.netlify.app/images/13.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
