@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="mhd.svg" alt="Açıklama" width="700" height="500">
+  <img src="MHD.svg" alt="Açıklama" width="700" height="200">
 </div>
 
 <h1 align="center">Hi 👋, I'm Halid</h1>
