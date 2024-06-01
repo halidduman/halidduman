@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://tr.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
+  <a href="https://drive.google.com/file/d/1zu3IC_UQHNUfux-q4RXXO85568WdreG1/view?usp=drive_link" target="_blank" rel="noreferrer">
     <img src="6.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
