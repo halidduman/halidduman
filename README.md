@@ -1,4 +1,6 @@
-![MasterHead](mhd.svg)
+<div align="center">
+  <img src="mhd.svg" alt="Açıklama" width="700" height="500">
+</div>
 
 <h1 align="center">Hi 👋, I'm Halid</h1>
 <h3 align="center">React Developer | Frontend Developer | Software Developer</h3>
