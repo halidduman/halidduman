@@ -51,9 +51,13 @@
    <a href="https://github.com/halidduman" target="_blank" rel="noreferrer">
     <img src="https://lambent-alfajores-5c48a5.netlify.app/images/9.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-
+  
    <a href="https://tr.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://lambent-alfajores-5c48a5.netlify.app/images/6.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+
+   <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://lambent-alfajores-5c48a5.netlify.app/images/15.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
